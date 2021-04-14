@@ -13,5 +13,7 @@ Features:
 - Clarity: 
 - Energy level 
 
+mp3_feature_extractor('Q1__8v0MFBZoco_1.mp3') will extract the above features of Q1__8v0MFBZoco_1.mp3
+
 *MIR tool box does not take midi files as their input while MIDI tool box does. 
 
