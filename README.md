@@ -6,6 +6,7 @@ Setting
 - MIDI tool box is installed, and it is set path in MatLab
 - MIR tool box is installed, and it is set path in MatLab
 - The folder of mp3 files should be also set as path in MatLab
+- Signal Processing Toolbox is installed (one of MatLab's add-on)
 
 Features: 
 - Roughness: 
