@@ -1,6 +1,6 @@
 # MacLab
 This file is to extract the musical features from single mp3 file. 
-Current features: roughness, key identification, clarity, energy level 
+Current features: roughness, clarity, energy level, tempo, avergae silence rate, key identification, and tonality. 
 
 Setting
 - MIDI tool box is installed, and it is set path in MatLab
