@@ -9,10 +9,13 @@ Setting
 - Signal Processing Toolbox is installed (one of MatLab's add-on)
 
 Features: 
-- Roughness: 
-- Key identification: 
+- Roughness: sensory dissonance 
 - Clarity: 
-- Energy level 
+- Energy: low energy rate
+- Tempo: 
+- Avg_silence: Average Silence Ratio - pauses within the clip
+- Key identification: return string character -ie) b
+- Tonality: if 0, major / if 1: minor 
 
 mp3_feature_extractor('Q1__8v0MFBZoco_1.mp3') will extract the above features of Q1__8v0MFBZoco_1.mp3
 
