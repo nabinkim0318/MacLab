@@ -10,9 +10,9 @@ Setting
 
 Features: 
 - Roughness: sensory dissonance 
-- Clarity: 
+- Clarity
 - Energy: low energy rate
-- Tempo: 
+- Tempo
 - Avg_silence: Average Silence Ratio - pauses within the clip
 - Key identification: return string character -ie) b
 - Tonality: if 0, major / if 1: minor 
